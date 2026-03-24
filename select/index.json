@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "天使の涙（feat. 初音ミク）",
+  "base_artist": "MIMI",
+  "createdAt": "2026-03-24T06:39:12.602976Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天使の涙 (feat. 初音ミク)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_天使の涙_(feat._初音ミク)_MIMI.txt"
+    }
+  ]
+}
