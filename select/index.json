@@ -1,16 +1,24 @@
 {
   "version": 1,
-  "base_track": "天使の涙（feat. 初音ミク）",
+  "base_track": "天使の涙",
   "base_artist": "MIMI",
-  "createdAt": "2026-03-26T01:13:25.050510Z",
+  "createdAt": "2026-03-27T19:56:16.043593Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "天使の涙 - Angel's tears (feat. HATSUNE MIKU)",
+      "artist": "MIMI",
+      "has_synced": true,
+      "path": "select/01_天使の涙_-_Angel's_tears_(feat._HATSUNE_MIKU)_MIMI.lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "天使の涙 (feat. 初音ミク)",
+      "title": "天使の涙",
       "artist": "MIMI",
       "has_synced": false,
-      "path": "select/pl_01_天使の涙_(feat._初音ミク)_MIMI.txt"
+      "path": "select/pl_01_天使の涙_MIMI.txt"
     }
   ]
 }
